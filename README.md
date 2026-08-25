@@ -1,6 +1,8 @@
-# Actserv AI Client Booking — n8n Setup Guide
+# AI Client Booking Agent — n8n Setup Guide
 
 > Import, configure, and run the booking automation workflow in n8n
+
+This was built as a demo/pitch project to showcase an AI-driven booking automation workflow. It was proposed to a prospective client but no sale went through, and the system is not owned by, affiliated with, or endorsed by that company.
 
 ![n8n](https://img.shields.io/badge/n8n-workflow-orange) ![Mistral AI](https://img.shields.io/badge/AI-Mistral-blue) ![Airtable](https://img.shields.io/badge/database-Airtable-green)
 
@@ -181,4 +183,4 @@ After a successful booking, the system produces:
 
 ---
 
-*Actserv Insurance Solutions — Confidential. For internal use only.*
+*Personal demo project by Linet Shammah Patriciah, built to showcase agentic AI workflow automation with n8n.*
